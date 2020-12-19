@@ -5,6 +5,7 @@
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyeob">
 </div>
 
-<div>
+<br>
+<br>
 [Profile](https://jinyeob.github.io)
-</div>
+
